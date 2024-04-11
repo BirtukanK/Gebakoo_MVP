@@ -1,4 +1,4 @@
-
+// Registration form validation and navigation hook
 import { useNavigate } from 'react-router-dom';
 
 

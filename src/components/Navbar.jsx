@@ -1,3 +1,4 @@
+// Navigation bar
 import { useState } from "react";
 
 import { close, menu } from "../assets";

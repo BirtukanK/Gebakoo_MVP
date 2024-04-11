@@ -1,3 +1,4 @@
+// Card for each item for sell
 import { Button } from "react-bootstrap"
 import { useCart } from "react-use-cart";
 import React from "react";

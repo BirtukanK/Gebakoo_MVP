@@ -1,7 +1,8 @@
+// Cart containing all information about items status 
+
 import React from 'react'
 import { useCart } from 'react-use-cart'
 import 'bootstrap/dist/css/bootstrap.min.css';
-
 
 const Cart = () => {
   const {

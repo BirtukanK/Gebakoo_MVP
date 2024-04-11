@@ -1,4 +1,4 @@
-
+// Introduction portion of the page
 import styles from "../style";
 import {robot } from "../assets";
 

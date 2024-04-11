@@ -1,3 +1,4 @@
+// App file to contain all components of the website
 import { BrowserRouter as Router, Route, Routes} from "react-router-dom";
 import styles from './style';
 import { useState } from 'react';

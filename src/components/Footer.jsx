@@ -1,3 +1,4 @@
+// Footter seciton describing all social media contacts
 import {  socialMedia } from "../constants";
 
 const Footer = () => {

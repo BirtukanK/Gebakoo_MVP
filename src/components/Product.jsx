@@ -1,9 +1,8 @@
+// List of products for sell
 import React, { useState } from 'react';
 import styles from "../style";
 import ProductCard from "./ProductCard";
 import { feedback } from "../constants";
-import { people01,  linkedin, wheat, corn, tomato, potato, red_onion, github, gmail, x  } from "../assets";
-// import * as App from './app';
 
 const Product = () => {
 
