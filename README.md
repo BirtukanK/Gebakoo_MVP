@@ -1,15 +1,15 @@
 # Gebakoo E-commerce web app
 
 # Get started
-* First clone Gebakoo_MVP repository
-  git clone https://github.com/BirtukanK/Gebakoo_MVP
-  cd Gebakoo_MVP
+* First clone Gebakoo_MVP repository <br />
+  git clone https://github.com/BirtukanK/Gebakoo_MVP <br />
+  cd Gebakoo_MVP <br />
 
-* install dependencies 
-  npm install
+* install dependencies <br />
+  npm install <br />
 
-* Run application with this command
-  npm start
+* Run application with this command <br />
+  npm start <br />
 
 ## Author
 ### Birtukan Kuma
