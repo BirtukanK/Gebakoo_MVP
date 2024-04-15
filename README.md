@@ -1,7 +1,7 @@
 # Gebakoo E-commerce web app
 
 # Get started
-* First clone Gebakoo_MVP repository <br />
+* First clone Gebakoo_MVP repository <br /><br />
   git clone https://github.com/BirtukanK/Gebakoo_MVP <br />
   cd Gebakoo_MVP <br />
 
